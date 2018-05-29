@@ -1,5 +1,7 @@
 language: node_js
 node_js: 10.2
+before_script:
+  - npm run lint
 cache:
   directories:
     - $HOME/.npm
