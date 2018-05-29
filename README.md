@@ -22,6 +22,17 @@ npm install
 ```
 
 
+Start server
+------------
+
+Start server:
+```sh
+npm start
+```
+
+This start an Express server listening to port **8000** on all interfaces (**0.0.0.0**). Use `PORT` and `HOST` variable if you need to specify custom values.
+
+
 License
 -------
 
