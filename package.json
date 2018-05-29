@@ -1,0 +1,7 @@
+{
+  "private": "true",
+  "engines": {
+    "node": ">= 10.2",
+    "npm": ">= 6.0"
+  }
+}
